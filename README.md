@@ -3,7 +3,13 @@
 A simple customer relationship management application developed
 on Django.
 
+# Project Screenshots
 
+## Admin Panel:
+![admin_panel](https://user-images.githubusercontent.com/57668492/143674351-f6b7442f-a955-4ae0-aa6a-61c0a802e997.png)
+
+## User info from admin panel:
+![user_info](https://user-images.githubusercontent.com/57668492/143674373-c9bd400c-9752-4993-98ed-ba44ec18af38.png)
 
 
 ## Features
